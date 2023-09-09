@@ -1,0 +1,199 @@
+ol .bug,
+.card-modal.bug { 
+  background-image: url(../images/back/bug.png);
+  background-size: cover;
+}
+ol li .bug,
+ol li.liDetail.bug {
+  background-image: none;
+  background-color: #a8b720;
+}
+
+ol .dark,
+.card-modal.dark { 
+  background-image: url(../images/back/dark.png);
+  background-size: cover;
+}
+ol li .dark,
+ol li.liDetail.dark {
+  background-image: none;
+  background-color: #725847;
+}
+
+ol .dragon,
+.card-modal.dragon { 
+  background-image: url(../images/back/dragon.png);
+  background-size: cover;
+}
+ol li .dragon,
+ol li.liDetail.dragon {
+  background-image: none;
+  background-color: #6f38f6;
+}
+
+ol .electric,
+.card-modal.electric { 
+  background-image: url(../images/back/electric.png);
+  background-size: cover;
+}
+ol li .electric,
+ol li.liDetail.electric {
+  background-image: none;
+  background-color: #f7cf2e;
+}
+
+ol .fairy,
+.card-modal.fairy { 
+  background-image: url(../images/back/fairy.jpg);
+  background-size: cover;
+}
+ol li .fairy,
+ol li.liDetail.fairy {
+  background-image: none;
+  background-color: #f9aec7;
+}
+
+ol .fighting,
+.card-modal.fighting { 
+  background-image: url(../images/back/fighting.png);
+  background-size: cover;
+}
+ol li .fighting,
+ol li.liDetail.fighting {
+  background-image: none;
+  background-color: #bf3029;
+}
+
+ol .fire,
+.card-modal.fire { 
+  background-image: url(../images/back/fire.png);
+  background-size: cover;
+}
+ol li .fire,
+ol li.liDetail.fire {
+  background-image: none;
+  background-color: #ee7f30
+}
+
+ol .flying,
+.card-modal.flying { 
+  background-image: url(../images/back/flying.png);
+  background-size: cover;
+}
+ol li .flying,
+ol li.liDetail.flying {
+  background-image: none;
+  background-color: #a98ff0;
+}
+
+ol .ghost,
+.card-modal.ghost { 
+  background-image: url(../images/back/ghost.png);
+  background-size: cover;
+}
+ol li .ghost,
+ol li.liDetail.ghost {
+  background-image: none;
+  background-color: #6e5896;
+}
+
+ol .grass,
+.card-modal.grass { 
+  background-image: url(../images/back/grass.png);
+  background-size: cover;
+}
+ol li .grass,
+ol li.liDetail.grass {
+  background-image: none;
+  background-color: #77c850;
+}
+
+ol .ground,
+.card-modal.ground { 
+  background-image: url(../images/back/ground.png);
+  background-size: cover;
+}
+ol li .ground,
+ol li.liDetail.ground {
+  background-image: none;
+  background-color: #dfbf69;
+}
+
+ol .ice,
+.card-modal.ice { 
+  background-image: url(../images/back/ice.jpg);
+  background-size: cover;
+}
+ol li .ice,
+ol li.liDetail.ice {
+  background-image: none;
+  background-color: #98d5d7;
+}
+
+ol .normal,
+.card-modal.normal { 
+  background-image: url(../images/back/normal.png);
+  background-size: cover;
+}
+ol li .normal,
+ol li.liDetail.normal {
+  background-image: none;
+  background-color: #a17b75;
+}
+
+ol .poison,
+.card-modal.poison { 
+  background-image: url(../images/back/poison.png);
+  background-size: cover;
+}
+ol li .poison,
+ol li.liDetail.poison {
+  background-image: none;
+  background-color: #a040a0;
+}
+
+ol .psychic,
+.card-modal.psychic { 
+  background-image: url(../images/back/physic.png);
+  background-size: cover;
+}
+ol li .psychic,
+ol li.liDetail.psychic {
+  background-image: none;
+  background-color: #f65687;
+}
+
+ol .rock,
+.card-modal.rock { 
+  background-image: url(../images/back/rock.png);
+  background-size: cover;
+}
+ol li .rock,
+ol li.liDetail.rock {
+  background-image: none;
+  background-color: #b8a137;
+}
+
+ol .steel,
+.card-modal.steel { 
+  background-image: url(../images/back/steel.png);
+  background-size: cover;
+}
+ol li .steel,
+ol li.liDetail.steel {
+  background-image: none;
+  background-color: #b9b7cf;
+}
+
+ol .water,
+.card-modal.water { 
+  background-image: url(../images/back/water.png);
+  background-size: cover;
+}
+ol li .water,
+ol li.liDetail.water {
+  background-image: none;
+  background-color: #678fee;
+}
+
+
